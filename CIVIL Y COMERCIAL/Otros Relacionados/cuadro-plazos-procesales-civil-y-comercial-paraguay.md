@@ -17,7 +17,7 @@ Este cuadro consolida, en una sola herramienta de consulta, los **plazos procesa
 1. **Reglas de cómputo** (CPC arts. 109, 145 a 149 y 172 a 179).
 2. **Plazos por etapa del proceso**: constitución de la causa, prueba, conclusión, recursos, ejecución, procesos especiales y medidas cautelares (CPC, Libro Segundo a Libro Sexto).
 3. **Plazos del procedimiento de menor cuantía** ante la Justicia de Paz Letrada (COJ, Libro II, arts. 364 a 417) y plazos notariales y de auxiliares de la justicia.
-4. **Plazos de prescripción liberatoria** del Código Civil (arts. 635 a 665), que condicionan la viabilidad temporal de cualquier demanda.
+4. **Plazos de prescripción liberatoria** del Código Civil (arts. 633 a 668), que condicionan la viabilidad temporal de cualquier demanda; su desarrollo sistemático —con la usucapión y la caducidad procesal— consta en el `cuadro-prescripciones-codigo-civil-paraguayo.md` del mismo acervo.
 
 **Advertencia metodológica.** Todos los plazos fueron extraídos del articulado publicado por la BACN y cotejados con las transcripciones de los documentos `codigo-procesal-civil-ley-1337-88-guia-procesal.md`, `codigo-de-organizacion-judicial-ley-879-81-competencia-civil.md` y `codigo-civil-paraguayo-ley-1183-85-guia-y-estructura.md` del mismo repositorio. Los plazos están expresados en **días hábiles** salvo indicación expresa en contrario. Los plazos que la ley fija en horas se consignan como tales.
 
