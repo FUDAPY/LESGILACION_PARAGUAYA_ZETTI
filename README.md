@@ -70,7 +70,7 @@ Cada documento se organiza, además, con una estructura interna uniforme —resu
 
 | Fuero | Estado | Documentos publicados |
 |---|---|---|
-| CIVIL Y COMERCIAL | En desarrollo | Código Civil (Ley N° 1183/1985), Código Procesal Civil (Ley N° 1337/1988), Código de Organización Judicial (Ley N° 879/1981) en materia de competencia civil, y cuadro de plazos procesales |
+| CIVIL Y COMERCIAL | En desarrollo | 42 documentos: Código Civil en cinco libros y su guía, Código Procesal Civil (texto íntegro y guía procesal), Código de Organización Judicial (texto íntegro y competencia civil), 13 leyes especiales, 2 acordadas, 6 documentos de jurisprudencia, 2 de doctrina judicial, 5 tratados internacionales, 2 de la Sala Civil y Comercial y 2 cuadros sinópticos (plazos procesales y prescripción, usucapión y caducidad) |
 | CONTENCIOSIOSO ADMINISTRATIVO | Estructura creada | — |
 | JUSTICIA DE PAZ | Estructura creada | — |
 | LABORAL | Estructura creada | — |
