@@ -98,6 +98,11 @@ Este compendio es compilado, estructurado y mantenido por **Zetti Digital PY**.
 
 Las correcciones, ampliaciones y sugerencias se reciben mediante *issues* y *pull requests* en el repositorio.
 
+## Control de versiones
+
+Toda incorporación o modificación de documentos se registra en la rama `main` con un mensaje de commit normalizado (`feat(docs)`, `fix(docs)`, `docs(...)`), que indica el fuero y el material afectado. Antes de publicar se controla que el índice de archivos no contenga documentos temporales, de configuración local ni credenciales, tarea que asegura el archivo `.gitignore` de la raíz. Cada `push` deja el repositorio sincronizado con la versión revisada del acervo.
+
+
 ## Aviso de uso
 
 Los textos normativos reproducidos son de dominio público. La estructura del compendio, los índices, los cuadros sinópticos y las notas de vigencia son obra de Zetti Digital PY y se publican con fines exclusivamente documentales y de estudio.
