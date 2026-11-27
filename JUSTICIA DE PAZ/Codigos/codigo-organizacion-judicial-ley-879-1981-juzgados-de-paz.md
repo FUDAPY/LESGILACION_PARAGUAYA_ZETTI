@@ -1,85 +1,66 @@
 ---
-titulo: "Código de Organización Judicial (Ley Nº 879/1981) — Disposiciones de la Justicia de Paz y Reformas Vigentes"
+titulo: "Código de Organización Judicial (Ley Nº 879/1981) — Juzgados de Paz y Modificaciones Vigentes"
 tipo: "CODIGO"
 fuero: "JUSTICIA DE PAZ"
-numero_norma: "Ley Nº 879/1981 (con modificaciones de la Ley Nº 6059/2018 y Ley Nº 6351/2019)"
+numero_norma: "Ley Nº 879/1981"
 fuente: "BACN — Biblioteca y Archivo del Congreso de la Nación: https://www.bacn.gov.py/leyes-paraguayas/2321/ley-n-879-codigo-de-organizacion-judicial-br"
 url_fuente: "https://www.bacn.gov.py/leyes-paraguayas/2321/ley-n-879-codigo-de-organizacion-judicial-br"
-vigencia: "Vigente con modificaciones introducidas por la Ley Nº 6059/2018 y Ley Nº 6351/2019"
+vigencia: "Vigente con las modificaciones introducidas por la Ley Nº 6059/2018 y Ley Nº 6351/2019"
 actualizado: "2026-11-27"
 ---
 
-# Código de Organización Judicial (Ley Nº 879/1981) — Justicia de Paz
+# Código de Organización Judicial (Ley Nº 879/1981) — Juzgados de Paz
 
-## Resumen Ejecutivo y Ámbito Orgánico
+## Resumen Institucional y Marco Competencial
 
-El Código de Organización Judicial del Paraguay (**Ley Nº 879/1981**) estructura el Poder Judicial y define la jerarquía, funciones y competencias de sus órganos jurisdiccionales. Dentro de dicha estructura, la **Justicia de Paz** constituye la base orgánica del sistema jurisdiccional paraguayo y el primer escalón de acceso a la tutela judicial efectiva, caracterizada por su presencia territorial desconcentrada en toda la República.
+El Código de Organización Judicial de la República del Paraguay (Ley Nº 879/1981), sancionado el 26 de noviembre de 1981 y promulgado el 2 de diciembre de 1981, estructura los órganos integrantes del Poder Judicial. El Capítulo VIII del Título III regula la **Justicia de Paz**, la cual constituye el primer escalón de la estructura jurisdiccional paraguaya y el canal directo de acceso a la tutela judicial en todos los distritos y municipios del país.
 
-Originalmente regulada en el Título III, Capítulo VIII (arts. 56 a 60) de la Ley Nº 879/1981, la competencia de los Juzgados de Paz fue sustancialmente ampliada y reconfigurada mediante la **Ley Nº 6059/2018** (promulgada el 2 de julio de 2018) y su modificatoria, la **Ley Nº 6351/2019**. Esta reforma suprimió la antigua Justicia Letrada, reasignando sus competencias patrimoniales a los Juzgados de Paz hasta el límite de trescientos (300) jornales mínimos y transfiriendo las causas de mayor envergadura a los Juzgados de Primera Instancia en lo Civil y Comercial.
+El régimen competencial de la Justicia de Paz fue modificado sustancialmente por la **Ley Nº 6059/2018** (modificada en sus artículos 4° y 6° por la **Ley Nº 6351/2019**), que suprimió la antigua Justicia Letrada en lo Civil y Comercial y traspasó a los Juzgados de Paz un amplio abanico de facultades en materia civil, comercial, laboral, de la niñez y adolescencia, sucesoria, posesoria y tutelar, ampliando la cuantía de sus litigios hasta el equivalente a **trescientos (300) jornales mínimos** para actividades diversas no especificadas.
 
-## Articulado Vigente del Código de Organización Judicial
+## Texto Normativo Verbatim del Código de Organización Judicial
 
-### Capítulo VIII — De la Justicia de Paz
+### TÍTULO III — DE LOS JUZGADOS Y TRIBUNALES EN PARTICULAR
+### CAPÍTULO VIII — DE LA JUSTICIA DE PAZ
 
 **Art. 56.-** La Justicia de Paz será ejercida por Jueces de Paz en lo Civil, Comercial y Laboral, y por Jueces de Paz en lo Criminal.
 
-*(Nota: En la práctica judicial actual, los Juzgados de Paz del interior del país operan bajo competencia multifuero, atendiendo en materias civil, comercial, laboral, niñez y adolescencia, y medidas cautelares penales y de violencia doméstica conforme a la Ley Nº 6059/2018).*
+#### SECCIÓN I — DE LOS JUZGADOS DE PAZ EN LO CIVIL, COMERCIAL Y LABORAL
 
----
+*(Nota de vigencia y concordancia: El texto original del Art. 57 fue modificado y ampliado en forma expresa e integral por el Artículo 1° de la Ley Nº 6059/2018).*
 
-### Sección I — De los Juzgados de Paz en lo Civil, Comercial y Laboral
-
-**Art. 57.- (Texto según reforma vigente introducida por el Artículo 1° de la Ley Nº 6059/2018):**
+**Art. 57 (Texto vigente conforme a la reforma introducida por la Ley Nº 6059/2018):**
 Los Juzgados de Paz en lo Civil, Comercial, Laboral y de la Niñez y la Adolescencia conocerán:
-
-a) De los asuntos civiles, comerciales o laborales en los cuales el valor del litigio no exceda del equivalente a **trescientos (300) jornales mínimos** para actividades diversas no especificadas, con exclusión de los que se refieran al estado civil de las personas, al derecho de familia salvo las excepciones expresamente determinadas en esta Ley, a las convocaciones de acreedores y quiebras, y a las acciones reales y posesorias sobre inmuebles salvo las excepciones previstas en esta Ley. Las tercerías de dominio que se deduzcan en un proceso de su competencia se sustanciarán ante el mismo Juzgado de Paz que conozca de la causa principal, con independencia del valor del bien sobre el que recaiga la tercería.
-
-b) De las demandas por desalojo, rescisión de contratos de locación y cobro de alquileres que se funden exclusivamente en la falta de pago de los cánones locativos convenidos, siempre que el importe total adeudado no supere los trescientos (300) jornales mínimos.
-
-c) De las acciones posesorias y de interdictos posesorios que recaigan sobre inmuebles rurales cuya superficie no exceda de cincuenta (50) hectáreas, y sobre inmuebles urbanos cuya valuación fiscal no supere el límite de su competencia por cuantía fijado en trescientos (300) jornales mínimos.
-
-d) De las sucesiones intestadas o testamentarias cuando el activo hereditario relicto no exceda del equivalente a trescientos (300) jornales mínimos y no existan bienes inmuebles que superen dicha cuantía o superficie máxima autorizada.
-
-e) De los juicios de fijación de alimentos y litisexpensas cuando el requirente haya alcanzado la mayoría de edad, así como de la homologación judicial de acuerdos transaccionales y conciliatorios sobre asistencia alimentaria, régimen de convivencia y régimen de relacionamiento familiar concertados libremente por las partes.
-
-f) De las informaciones sumarias de testigos para acreditar hechos notorios, extremos fácticos de supervivencia, estados de necesidad y convivencia concubinaria con fines previsionales o asistenciales.
-
-g) De las medidas de seguridad urgentes previstas en el Código de la Niñez y la Adolescencia y en la Ley Nº 1600/2000 "Contra la Violencia Doméstica".
-
-h) De las cuestiones atinentes a restricciones y límites al dominio, medianería, problemas de vecindad y amojonamiento en predios urbanos o rurales dentro del límite de su cuantía territorial.
-
-i) De los beneficios para litigar sin gastos, diligencias preparatorias y pruebas anticipadas en asuntos sometidos a su competencia material.
-
----
+a) de los asuntos civiles, comerciales o laborales en los cuales el valor del litigio no exceda del equivalente a trescientos jornales mínimos para actividades diversas no especificadas, con exclusión de los que se refieran al estado civil de las personas, al derecho de familia con las excepciones previstas en esta Ley, a la convocación de acreedores y quiebras, y a las acciones reales y posesorias sobre inmuebles, salvo en los casos de tercerías de dominio que se susciten dentro de los límites de su competencia;
+b) de las acciones posesorias y sucesorias que tengan por objeto propiedades rurales de hasta cincuenta hectáreas, y urbanas siempre que en este último caso la valuación fiscal no exceda la cuantía fijada en el inciso anterior;
+c) de los juicios relativos a restricciones y límites al dominio, condominio de muros, cercos y fosos y cuestiones de vecindad, siempre que la valuación fiscal del inmueble de propiedad de la parte demandada no exceda la cuantía señalada en el inciso a);
+d) de las demandas de resolución de contratos de locación y de desalojo por falta de pago de alquileres, siempre que el monto de lo adeudado no exceda del límite de su competencia fijado en el inciso a);
+e) las medidas de seguridad urgentes previstas en el Código de la Niñez y la Adolescencia y la Ley N° 1.600/00 “CONTRA LA VIOLENCIA DOMÉSTICA”;
+f) de los juicios de alimentos cuando el beneficiario haya alcanzado la mayoría de edad, y la homologación de acuerdos conciliatorios sobre asistencia alimentaria, régimen de convivencia y de relacionamiento;
+g) de los beneficios para litigar sin gastos, de las medidas cautelares y de las diligencias preparatorias y de pruebas anticipadas, relacionadas con juicios que son de su competencia;
+h) de los pedidos de autorización para contraer matrimonio de menores de edad domiciliados en su jurisdicción;
+i) de las curatelas o insanias siempre que no existan bienes que administrar, o habiéndolos, su valor no exceda el límite fijado en el inciso a); y,
+j) de las informaciones sumarias de testigos para acreditar hechos que deban justificar ante autoridades públicas, salvo aquellas que por disposición legal deban sustanciarse ante un Juzgado de Primera Instancia.
 
 **Art. 58.-** Competerá además a los Juzgados de Paz en lo Civil, Comercial y Laboral:
+a) practicar las diligencias que les fueran encomendadas por los Juzgados y Tribunales;
+b) realizar el inventario de los bienes de las personas fallecidas sin parientes conocidos o con herederos ausentes o menores de edad que no tengan representantes legales, y disponer la guarda de ellos;
+c) certificar la existencia de personas y sus domicilios;
+d) comunicar a los Juzgados Tutelares los casos de abandono material o moral, malos tratos y orfandad de menores;
+e) autenticar firmas; y,
+f) ejercer funciones notariales dentro de su jurisdicción, siempre que no existan en ellas Escribanos Públicos con Registro.
 
-a) practicar las diligencias que les fueran encomendadas por los Juzgados y Tribunales de la República en virtud de exhortos y oficios judiciales;
+**Art. 59.-** Los Jueces de Paz en lo Civil, Comercial y Laboral conocerán de las faltas e instruirán sumarios en los casos de comisión de delitos en los lugares donde no haya Juez de Instrucción en lo Criminal. En tales casos dictarán las providencias de urgencia y elevarán el sumario con los detenidos al Juzgado correspondiente dentro de las cuarenta y ocho horas de haber iniciado el procedimiento.
 
-b) realizar el inventario de los bienes de las personas fallecidas sin parientes conocidos o con herederos ausentes o menores de edad no representados legalmente, adoptando las medidas urgentes de resguardo patrimonial;
+#### SECCIÓN II — DE LOS JUZGADOS DE PAZ EN LO CRIMINAL
 
-c) certificar la existencia de personas y sus domicilios en los casos previstos por las leyes y reglamentaciones pertinentes;
+**Art. 60.-** Los Juzgados de Paz en lo Criminal conocerán de las faltas previstas por la ley, siendo sus resoluciones apelables. Instruirán sumarios por comisión de delitos cuando en el lugar no haya Juzgado de Instrucción en lo Criminal, dando cuenta inmediata a éste y elevando los antecedentes dentro de las cuarenta y ocho horas con los procesados que hubieren.
+Asegurarán las personas de los procesados y podrán disponer el allanamiento de domicilio, librando orden por escrito y fundada, y recogerán los elementos probatorios del delito.
+*(Nota: Las funciones en materia penal procesal están reguladas supletoria y prioritariamente por el Artículo 44 del Código Procesal Penal, Ley Nº 1286/1998).*
 
-d) comunicar de inmediato a los Juzgados de la Niñez y la Adolescencia y al Ministerio de la Defensa Pública los casos de abandono material o moral, maltrato infantil, orfandad y desprotección de menores que llegaren a su conocimiento;
+## Articulación con Disposiciones Generales del COJ
 
-e) autenticar y legalizar firmas en documentos privados cuando las partes así lo requieran conforme a los aranceles y acordadas de la Corte Suprema de Justicia; y,
-
-f) ejercer funciones notariales por comisión legal dentro de su demarcación territorial, exclusivamente cuando en ella no existan Notarios y Escribanos Públicos con Registro titular habilitado.
-
----
-
-**Art. 59.-** Los Jueces de Paz en lo Civil, Comercial y Laboral conocerán de las faltas correccionales y contravenciones administrativas que les atribuya expresamente la ley, e instruirán los sumarios de prevención en casos de necesidad urgente debidamente justificada.
-
----
-
-### Sección II — De los Juzgados de Paz en lo Criminal
-
-**Art. 60.-** Los Juzgados de Paz en lo Criminal conocerán de las faltas previstas en el Código Penal y en las leyes especiales de orden público, siendo sus resoluciones recurribles conforme a las reglas del procedimiento penal común. En defecto de agentes del Ministerio Público o de Jueces Penales de Garantías en la localidad, adoptarán las diligencias iniciales de comprobación del hecho punible, aseguramiento de los procesados y conservación de evidencias, con remisión inexcusable de lo actuado dentro del plazo perentorio de veinticuatro (24) horas al juez natural.
-
----
-
-## Disposiciones Conexas y Reglas Operativas
-
-1. **Competencia Residual y Límite Jerárquico (Art. 38 COJ):** Los Juzgados de Primera Instancia en lo Civil y Comercial conservan competencia sobre todos los asuntos que no estén atribuidos expresamente a los Juzgados de Paz.
-2. **Deber de Celeridad y Trámite Sumario (Ley Nº 6059/2018, Art. 2º):** Los procesos que se sustancian ante la Justicia de Paz se rigen rigurosamente por el trámite del **Juicio de Menor Cuantía** legislado en los artículos 683 y siguientes del Código Procesal Civil, consagrando la concentración de audiencias, la oralidad actuada y la irrecurribilidad de resoluciones interlocutorias de mero trámite.
-3. **Alzada y Recursos (Ley Nº 6059/2018, Art. 3º):** Las sentencias definitivas y los autos interlocutorios que pongan fin al litigio o causen gravamen irreparable dictados por los Jueces de Paz son apelables en relación ante los Juzgados de Primera Instancia de la circunscripción judicial correspondiente.
+- **Art. 14.-** La competencia se determinará por razón de la materia, del territorio, del grado y de la cuantía.
+- **Art. 15.-** La competencia por razón del territorio es prorrogable con relación a los asuntos civiles y comerciales, mediante conformidad de partes expresa o tácita. Es improrrogable por razón de la materia y de la cuantía.
+- **Art. 16.-** En las acciones personales será Juez competente el del lugar convenido para el cumplimiento de la obligación; a falta de éste, a elección del demandante, el del domicilio del demandado, o el del lugar del contrato, con tal que el demandado se halle en él, aunque sea accidentalmente. En las acciones reales sobre bienes inmuebles, el del lugar de situación del bien litigioso.
+- **Art. 28 inc. e).-** Corresponde a la Corte Suprema de Justicia conocer en única instancia de las contiendas de competencia entre los Tribunales y Juzgados inferiores.
+- **Art. 38.-** Los Juzgados de Primera Instancia en lo Civil y Comercial conocerán de todo asunto contencioso que no esté atribuido por la ley a los Juzgados de Paz o a otros fueros especiales.

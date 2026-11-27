@@ -1,106 +1,74 @@
 ---
-titulo: "Código Procesal Civil (Ley Nº 1337/1988) — Proceso de Menor Cuantía, Desalojo e Interdictos en la Justicia de Paz"
+titulo: "Código Procesal Civil (Ley Nº 1337/1988) — Juicio de Menor Cuantía y Procesos Aplicables en Justicia de Paz"
 tipo: "CODIGO"
 fuero: "JUSTICIA DE PAZ"
-numero_norma: "Ley Nº 1337/1988 (Libro IV, Títulos II, III y IV)"
+numero_norma: "Ley Nº 1337/1988"
 fuente: "BACN — Biblioteca y Archivo del Congreso de la Nación: https://www.bacn.gov.py/leyes-paraguayas/3038/ley-n-1337-codigo-procesal-civil-br"
 url_fuente: "https://www.bacn.gov.py/leyes-paraguayas/3038/ley-n-1337-codigo-procesal-civil-br"
-vigencia: "Vigente"
+vigencia: "Vigente (Título XIII del Libro IV aplicable por remisión expresa del Art. 2° de la Ley Nº 6059/2018)"
 actualizado: "2026-11-27"
 ---
 
-# Código Procesal Civil (Ley Nº 1337/1988) — Proceso de Menor Cuantía
+# Código Procesal Civil (Ley Nº 1337/1988) — Juicio de Menor Cuantía
 
-## Resumen Ejecutivo y Ámbito de Aplicación
+## Ámbito de Aplicación Procesal
 
-El Código Procesal Civil de la República del Paraguay (**Ley Nº 1337/1988**) regula el ejercicio de la función jurisdiccional en materia civil y comercial. Conforme al mandato expreso del **Artículo 2° de la Ley Nº 6059/2018**, los juicios sometidos al conocimiento de los Juzgados de Paz se rigen por las reglas procesales del **Título II del Libro IV** de este Código, denominado *"Del Proceso de Menor Cuantía"* (arts. 683 a 690), así como por las disposiciones especiales del juicio de desalojo (arts. 621 a 634) y de los interdictos posesorios (arts. 635 a 655) en cuanto resulten compatibles con los límites cuantitativos y materiales de la judicatura de paz.
+El Código Procesal Civil de la República del Paraguay (Ley Nº 1337/1988), promulgado el 4 de noviembre de 1988, regula en el **Libro IV, Título XIII** el procedimiento del **Juicio de Menor Cuantía** (artículos 684 al 690). 
 
-El proceso de menor cuantía responde a los principios de **celeridad, inmediación, oralidad actuada y concentración procesal**, concebido como una vía sumarísima para resolver controversias que no superen el límite de trescientos (300) jornales mínimos.
+Conforme al mandato imperativo del **Artículo 2° de la Ley Nº 6059/2018**:
+> *"Trámite. Los juicios sometidos a la competencia de los Juzgados de Paz se regirán por las reglas del Título XIII 'De los juicios de menor cuantía' del Código Procesal Civil y sus modificaciones, y por las demás disposiciones del mismo cuerpo legal aplicables."*
 
----
+En consecuencia, el Título XIII constituye el cauce procesal ordinario y sumario bajo el cual se tramitan las demandas contenciosas civiles, comerciales y laborales dentro de la órbita de los Juzgados de Paz, integrándose armónicamente con los regímenes especiales de desalojo, interdictos posesorios y medidas cautelares.
 
-## Texto Verbatim del Código Procesal Civil
+## Texto Verbatim del Título XIII del Libro IV del CPC
 
-### Libro IV — De los Procesos Especiales
-#### Título II — Del Proceso de Menor Cuantía
+### TÍTULO XIII — DE LOS JUICIOS DE MENOR CUANTIA
 
-**Art. 683.- Reglas aplicables.**
-En los juicios de conocimiento en que el valor del litigio no exceda de la cuantía fijada para la competencia de la Justicia de Paz Letrada, se aplicarán las reglas del proceso sumario, con las modificaciones siguientes:
-a) la demanda y la contestación podrán deducirse por escrito o verbalmente; en este último caso, se labrará acta ante el actuario;
-b) con la demanda y la contestación se ofrecerán todas las pruebas y se acompañará la instrumental que obrase en poder de las partes;
-c) el plazo para contestar la demanda será de seis días;
-d) deducida la reconvención, se correrá traslado al actor por seis días;
-e) las excepciones previas se opondrán conjuntamente con la contestación de la demanda y se resolverán en la sentencia definitiva, salvo la incompetencia de jurisdicción, que se resolverá previamente;
-f) el plazo de prueba será fijado por el juez y no excederá de veinte días;
-g) el número de testigos no podrá exceder de cuatro por cada parte;
-h) las partes no podrán presentar alegatos; y
-i) el plazo para dictar sentencia será de quince días.
+**Art. 684.- Denominación.**
+Modifícase la denominación de Justicia de Paz Letrada por la de "Justicia Letrada en lo Civil y Comercial". Las cuestiones de su competencia tramitarán por los procedimientos que se regulan en este Título y las disposiciones del presente Código en cuanto fuesen aplicables.
+*(Nota: Por Ley Nº 6059/2018, la Justicia Letrada fue suprimida y sus competencias procesales fueron asumidas plenamente por los Juzgados de Paz).*
 
-**Art. 684.- Inadmisibilidad de incidentes y recursos.**
-En este proceso no se admitirán incidentes que suspendan el curso del juicio principal, ni reconvención que por su cuantía o materia no corresponda a la competencia del juzgado. Las resoluciones sobre admisión o rechazo de pruebas serán irrecurribles.
+**Art. 685.- Competencia.**
+La competencia territorial se regirá conforme a lo dispuesto por el artículo 42 del Código de Organización Judicial.
+Por razón de la materia, los jueces serán competentes para conocer y decidir en todos los asuntos civiles y comerciales y en todos los casos de informaciones sumarias de testigos, a excepción de aquellas que deban plantearse con motivo de juicios que no fueren de su competencia. Son incompetentes para entender en los juicios de convocación de acreedores y quiebras, los relativos a la posesión y propiedad de inmuebles, salvo aquellos que se planteen con motivo de una tercería de dominio, los juicios laborales, de amparo, las cuestiones vinculadas al derecho de familia y los juicios sucesorios.
+Por razón de la cuantía, los jueces serán competentes para conocer y decidir en todos aquellos litigios cuyo valor oscila entre la cantidad de sesenta y trescientos jornales mínimos para actividades diversas no especificadas en la Capital de la República. La Corte Suprema de Justicia podrá modificar por acordada esta cuantía, atendiendo a los indicadores económicos.
+*(Nota: El Art. 1° de la Ley Nº 6059/2018 fijó la competencia de los Juzgados de Paz desde 1 hasta 300 jornales mínimos, e incorporó expresamente las sucesiones y posesorias rurales hasta 50 ha, inmuebles urbanos por valuación fiscal y alimentos para mayores de edad).*
 
-**Art. 685.- Audiencia de conciliación y prueba.**
-Trancado el litigio o vencido el plazo para contestar la demanda o reconvención, el juez señalará una audiencia dentro de los diez días siguientes para que las partes comparezcan personalmente a una audiencia de conciliación. Si la conciliación fracasare, en la misma audiencia se admitirán las pruebas que fueren procedentes y se ordenará su diligenciamiento inmediato dentro del término probatorio.
+**Art. 686.- Trámite en el proceso de conocimiento.**
+En los asuntos de menor cuantía se regirá por las reglas del proceso de conocimiento ordinario, con las siguientes modificaciones:
+a) el plazo para contestar la demanda o la reconvención será de seis días. Con la demanda y la contestación deberá acompañarse la prueba documental, en los términos del artículo 219, y ofrecerse todas las demás;
+b) las excepciones dilatorias se opondrán con la contestación de la demanda y, previo traslado, serán resueltas en la sentencia definitiva, como primer punto de la misma;
+c) si la cuestión fuere declarada de puro derecho, el juez dictará sentencia en el plazo de diez días;
+d) en caso de haber hechos controvertidos el juez dispondrá la producción de las pruebas ofrecidas y admitidas, en una audiencia que se llevará a cabo con la parte que compareciere, por sí o por apoderado. En el mismo auto el juez ordenará las citaciones y diligencias que fueren pertinentes. Si estas fueren desestimadas, procederán los recursos de apelación y nulidad, que serán concedidos sin efecto suspensivo;
+e) en el acto de la audiencia el juez intentará avenir a las partes, si se encontraren presentes. Si hubiere acuerdo, el mismo será homologado en el plazo de dos días, con fuerza de sentencia. En caso contrario, se continuará con el procedimiento establecido;
+f) los testigos no podrán exceder de cinco por cada parte, sin perjuicio de la regla establecida en el artículo 318;
+g) los incidentes que se plantearen durante la audiencia de prueba serán resueltos en la misma o dentro del día siguiente hábil. No se dará trámite a los recursos de apelación y nulidad que fueren interpuestos contra las resoluciones dictadas por el juez durante la audiencia, pero se dejará constancia de los mismos a fin de que sean considerados en oportunidad de tratarse la apelación de la sentencia definitiva. Si el Tribunal de Apelación estimare que el pedido de la parte fuere procedente, revocará el auto y recibirá la prueba antes de dictar sentencia;
+h) no siendo posible producir todas las pruebas en la audiencia respectiva, el juez la prorrogará para el día siguiente hábil y así sucesivamente hasta que hayan sido producidas íntegramente, sin necesidad de otra citación que la que se hará en ese acto;
+i) concluida la audiencia, las partes podrán presentar sus alegatos en el plazo individual de tres días. No procederá la suspensión del plazo para alegar. El juez, acto continuo, llamará autos para sentencia, la que deberá ser dictada en el plazo de quince días.
 
-**Art. 686.- Carga de la comparecencia de testigos y peritos.**
-Las partes asumirán la carga de hacer comparecer a los testigos propuestos y a los peritos en el día y hora señalados por el juzgado. En caso de incomparecencia injustificada de los testigos propuestos, se prescindirá de su declaración sin necesidad de intimación previa.
+**Art. 687.- Trámite de los incidentes.**
+En los incidentes planteados fuera de la audiencia de prueba los que deberán ser contestados en el plazo de tres días, se procederá en la forma establecida en el artículo anterior, con excepción de lo previsto en los incs. a), b), c), e) y f). La audiencia de prueba se fijará dentro de los diez días de contestada la incidencia, los testigos de cada parte no podrán exceder de tres y no habrá alegatos. En todos los casos los incidentes serán resueltos en el plazo de cinco días.
 
-**Art. 687.- Plazo para apelar y trámite en alzada.**
-El recurso de apelación contra la sentencia definitiva se interpondrá por escrito fundado dentro del plazo perentorio de cinco días. Concedido el recurso en relación, se correrá traslado a la contraparte por el término de cinco días. Cumplido este trámite, el expediente será elevado inmediatamente al Juzgado de Primera Instancia en lo Civil y Comercial de turno, el cual resolverá sin más trámite dentro del plazo de quince días.
+**Art. 688.- Del proceso de ejecución.**
+En los procesos de ejecución se aplicarán las normas contenidas en el Libro III de este Código en lo que fuere pertinente, salvo lo previsto para el trámite de las excepciones, que se regirán por el procedimiento establecido en el art. 687 para los incidentes.
 
-**Art. 688.- Ejecución de resoluciones.**
-Las sentencias dictadas en los juicios de menor cuantía se ejecutarán conforme al trámite de la ejecución de resoluciones judiciales previsto en los artículos 519 y siguientes de este Código, con plazos reducidos a la mitad.
+**Art. 689.- Del juicio de desalojo.**
+El juicio de desalojo, que será procedente contra locatarios, sublocatarios y ocupantes precarios, se regirá por las siguientes disposiciones:
+a) la demanda se presentará por escrito y de ella se correrá traslado al demandado por seis días, bajo apercibimiento de que si dejare de contestarla se fallará la causa sin más trámite, de acuerdo con lo expuesto por el actor;
+b) el actor y el demandado, al promover y contestar la demanda, respectivamente, deberá ofrecer toda la prueba, acompañando la instrumental, en los términos del artículo 219 y dar cumplimiento a lo dispuesto en el artículo 623 de este Código;
+c) si hubieren hechos controvertidos el juez señalará una audiencia dentro de los diez días de contestada la demanda, a fin de producir la prueba ofrecida y dispondrá, en el mismo auto, las citaciones y diligencias que fueren pertinentes. La audiencia se llevará a cabo con la parte que compareciere por sí o por apoderado;
+d) concluida la audiencia el juez llamará autos para sentencia y dictará el fallo en el plazo de diez días; y,
+e) serán aplicables en este juicio las disposiciones contenidas en los artículos 626 de este Código.
 
-**Art. 689.- Facultades ordenatorias e instructorias del Juez de Paz.**
-El juez de paz tendrá amplias facultades para disponer de oficio las diligencias conducentes al esclarecimiento de los hechos, pudiendo ordenar la comparecencia de las partes en cualquier estado del proceso, solicitar informes públicos o privados y requerir peritajes breves.
+**Art. 690.- Del procedimiento en segunda instancia.**
+El procedimiento en segunda instancia se regirá conforme a las siguientes reglas:
+a) si la sentencia fuere apelada, se elevará el expediente al Tribunal de Apelación en el plazo de dos días. Dentro del plazo de tres días, contados desde la notificación de la providencia de autos, el apelante presentará su escrito de memorial, del que se correrá traslado a la otra parte por igual plazo. Si el recurrente no presentare la memoria en el término de ley se declarará desierto el recurso y se dispondrá la devolución de los autos al juez de la causa;
+b) si la sentencia recurrida hubiere recaído en un juicio o incidente en el cual se hubiere interpuesto el recurso de apelación durante la audiencia de prueba, el Tribunal deberá revisar la resolución dictada por el juez en la misma y si estimare que el pedido de la parte era procedente, revocará el auto, recibirá la prueba y posteriormente dictará la sentencia definitiva;
+c) el Tribunal deberá dictar la resolución dentro del plazo de ocho días. En todos los casos la resolución del Tribunal causará ejecutoria.
+*(Nota: Conforme al Art. 3° de la Ley Nº 6059/2018, los recursos interpuestos contra las resoluciones de los Jueces de Paz son resueltos en grado de apelación por los Juzgados de Primera Instancia en lo Civil y Comercial de la respectiva circunscripción judicial).*
 
-**Art. 690.- Supletoriedad.**
-En todo lo no previsto especialmente en este Título, se aplicarán supletoriamente las disposiciones que regulan el proceso de conocimiento ordinario, en cuanto sean compatibles con la naturaleza sumarísima del juicio de menor cuantía.
+## Normas Supletorias Clave
 
----
-
-### Disposiciones del Juicio de Desalojo aplicables en Sede de Paz
-*(Artículos 621 a 634 del Código Procesal Civil, en concordancia con el Art. 1º inc. b de la Ley Nº 6059/2018)*
-
-**Art. 621.- Procedencia del juicio de desalojo.**
-El juicio de desalojo procederá contra el locatario, sublocatario, tenedor precario, intruso o cualquier otro ocupante cuya obligación de restituir el inmueble o parte de él sea exigible.
-
-**Art. 622.- Demanda y traslado.**
-Presentada la demanda por falta de pago de alquileres, el juez correrá traslado de ella al demandado por el plazo de seis días, notificándolo en el domicilio constituido o en el propio inmueble locado, bajo apercibimiento de que si no contestare la demanda o no opusiere excepciones legítimas, se decretará el desalojo sin más trámite.
-
-**Art. 623.- Notificaciones y reconocimiento de ocupantes.**
-Si el inmueble estuviere ocupado por terceros no mencionados en la demanda, el oficial de justicia notificará la demanda a los mismos, haciéndoles saber el objeto del juicio e intimándoles para que manifiesten a qué título ocupan el inmueble dentro del plazo de contestación.
-
-**Art. 631.- Plazo para el lanzamiento.**
-El lanzamiento se ordenará a petición de parte una vez consentida o ejecutoriada la sentencia que decreta el desalojo. El plazo para el desalojo voluntario será de diez días corridos; vencido el mismo sin haberse verificado la desocupación, se procederá al lanzamiento con auxilio de la fuerza pública y allanamiento de domicilio si fuere necesario.
-
----
-
-### Disposiciones sobre Interdictos Posesorios
-*(Artículos 635 a 655 del Código Procesal Civil, en concordancia con el Art. 1º inc. c de la Ley Nº 6059/2018)*
-
-**Art. 635.- Clases de interdictos.**
-Los interdictos proceden para adquirir la posesión, para retenerla, para recobrarla o para impedir una obra nueva. En la Justicia de Paz sólo procederán las acciones de retener y de recobrar la posesión sobre predios rurales de hasta cincuenta hectáreas y predios urbanos cuya valuación fiscal no supere los trescientos jornales mínimos.
-
-**Art. 646.- Interdicto de retener la posesión.**
-Procederá cuando el poseedor o tenedor fuere turbado en su posesión con actos materiales que no impliquen exclusión total de la misma. Deberá acreditarse la posesión actual, los actos de turbación y que éstos se produjeron dentro del año precedente a la deducción de la acción.
-
-**Art. 653.- Interdicto de recobrar la posesión.**
-Procederá cuando el poseedor o tenedor hubiere sido despojado total o parcialmente de un inmueble con violencia, clandestinidad o abuso de confianza. Correrá traslado de la demanda por seis días y el plazo de prueba no excederá de diez días. La sentencia dispondrá la restitución inmediata del inmueble, con costas al despojante.
-
----
-
-## Cuadro Comparativo de Plazos en el Proceso de Menor Cuantía
-
-| Actuación Procesal | Plazo Legal Ordinario | Plazo en Menor Cuantía (Arts. 683 y sgtes.) |
-|---|---|---|
-| Contestación de demanda | 18 días hábiles | **6 días hábiles** |
-| Traslado de reconvención | 18 días hábiles | **6 días hábiles** |
-| Opción de excepciones previas | 9 días hábiles (previo) | **Con la contestación (se resuelve en S.D.)** |
-| Audiencia de conciliación | Facultativa | **Obligatoria dentro de los 10 días** |
-| Periodo probatorio | Hasta 40 días | **Fijado por el Juez (máximo 20 días)** |
-| Número máximo de testigos | Hasta 7 por parte | **Máximo 4 testigos por parte** |
-| Presentación de alegatos | 6 días por parte | **Prohibidos / Inadmisibles** |
-| Plazo para dictar S.D. | 40 días | **15 días hábiles** |
-| Plazo para interponer apelación | 5 días hábiles | **5 días hábiles (fundada)** |
-| Plazo para resolver alzada | 30 días | **15 días hábiles** |
+1. **Juicio de Desalojo Ordinario (Arts. 621 a 634 CPC):** Procedencia contra locatarios, sublocatarios, arrendatarios y precaristas; verificación del inmueble; apercibimiento de lanzamiento y notificación en el predio locado.
+2. **Interdictos Posesorios (Arts. 635 a 655 CPC):** Interdicto de retener la posesión ante turbaciones materiales y de recobrar la posesión ante despojo violento o clandestino, aplicables a propiedades rurales de hasta 50 hectáreas y urbanas conforme a la Ley Nº 6059/2018.
+3. **Medidas Cautelares (Arts. 691 a 703 CPC):** Embargo preventivo, secuestro, anotación de litis, prohibición de innovar y contratar, exigencia de verosimilitud del derecho y peligro en la demora.
