@@ -1,7 +1,7 @@
 ---
 titulo: "Ley Nº 276/1994 — Orgánica y Funcional de la Contraloría General de la República"
 tipo: "LEY"
-fuero: "CONTENCIOSIOSO ADMINISTRATIVO"
+fuero: "CONTENCIOSO ADMINISTRATIVO"
 numero_norma: "Ley Nº 276/1994"
 fuente: "BACN"
 url_fuente: "https://www.bacn.gov.py/leyes-paraguayas/2531/ley-n-276-org-nica-y-funcional-de-la-contralor-a-general-de-la-rep-blica"

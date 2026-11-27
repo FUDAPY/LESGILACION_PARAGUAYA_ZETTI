@@ -4,6 +4,7 @@ tipo: "Tratado internacional aprobado por ley"
 fuero: "CIVIL Y COMERCIAL"
 numero_norma: "Ley N° 3036/2006"
 fuente: "BACN — Biblioteca y Archivo del Congreso de la Nación: https://www.bacn.gov.py/leyes-paraguayas/2120/ley-n-3036-aprueba-el-acuerdo-de-cooperacion-y-asistencia-jurisdiccional-en-materia-civil-comercial-laboral-y-administrativa"
+url_fuente: \"https://www.bacn.gov.py/leyes-paraguayas/2120/ley-n-3036-aprueba-el-acuerdo-de-cooperacion-y-asistencia-jurisdiccional-en-materia-civil-comercial-laboral-y-administrativa\"
 vigencia: "Vigente en el ordenamiento paraguayo. Ley N° 3036/2006, promulgada el 26 de octubre de 2006 (fecha de promulgación publicada por la BACN)."
 actualizado: "2026-11-27"
 ---

@@ -1,7 +1,7 @@
 ---
 titulo: "Ley Nº 1535/1999 — De Administración Financiera del Estado"
 tipo: "LEY"
-fuero: "CONTENCIOSIOSO ADMINISTRATIVO"
+fuero: "CONTENCIOSO ADMINISTRATIVO"
 numero_norma: "Ley Nº 1535/1999"
 fuente: "BACN"
 url_fuente: "https://www.bacn.gov.py/leyes-paraguayas/3000/ley-n-1535-1999-de-administraci-n-financiera-del-estado"

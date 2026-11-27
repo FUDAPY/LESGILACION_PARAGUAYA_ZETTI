@@ -4,6 +4,7 @@ tipo: "Doctrina judicial sistematizada"
 fuero: "CIVIL Y COMERCIAL"
 numero_norma: "Acuerdos y Sentencias de la Sala Civil (2026)"
 fuente: "Base de Jurisprudencia del Poder Judicial — campo 'Análisis' de cada resolución: https://www.csj.gov.py/jurisprudencia"
+url_fuente: \"https://www.csj.gov.py/jurisprudencia\"
 vigencia: "Criterios correspondientes a resoluciones de 2026. No constituyen precedente vinculante; deben verificarse en el texto del fallo y en la línea posterior de la Sala."
 actualizado: "2026-11-27"
 ---

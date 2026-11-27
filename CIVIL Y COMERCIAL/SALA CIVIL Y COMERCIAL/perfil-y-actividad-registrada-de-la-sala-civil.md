@@ -4,6 +4,7 @@ tipo: "Perfil institucional y análisis de datos publicados"
 fuero: "CIVIL Y COMERCIAL"
 numero_norma: "Sala Civil de la Corte Suprema de Justicia"
 fuente: "Base de Jurisprudencia del Poder Judicial: https://www.csj.gov.py/jurisprudencia — consulta por Sala 'SALA CIVIL' y Materia 'Civil y Comercial'"
+url_fuente: \"https://www.csj.gov.py/jurisprudencia\"
 vigencia: "Perfil descriptivo. Las cifras corresponden a la fecha de corte y varían con cada carga de resoluciones."
 actualizado: "2026-11-27"
 ---

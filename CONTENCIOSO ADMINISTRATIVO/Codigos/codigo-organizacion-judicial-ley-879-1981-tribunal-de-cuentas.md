@@ -1,7 +1,7 @@
 ---
 titulo: "Ley Nº 879/1981 — Código de Organización Judicial"
 tipo: "CODIGO"
-fuero: "CONTENCIOSIOSO ADMINISTRATIVO"
+fuero: "CONTENCIOSO ADMINISTRATIVO"
 numero_norma: "Ley Nº 879/1981 / Ley Nº 2248/2003 / Ley Nº 7543/2025"
 fuente: "BACN"
 url_fuente: "https://www.bacn.gov.py/leyes-paraguayas/2321/ley-n-879-codigo-de-organizacion-judicial"

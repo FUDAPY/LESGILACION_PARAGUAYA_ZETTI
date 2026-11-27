@@ -4,6 +4,7 @@ tipo: "Código de forma"
 fuero: "CIVIL Y COMERCIAL"
 numero_norma: "Ley N° 1337/1988"
 fuente: "BACN — Biblioteca y Archivo del Congreso de la Nación: https://www.bacn.gov.py/leyes-paraguayas/3038/ley-n-1337-codigo-procesal-civil-br"
+url_fuente: \"https://www.bacn.gov.py/leyes-paraguayas/3038/ley-n-1337-codigo-procesal-civil-br\"
 vigencia: "Vigente, con reformas puntuales según la referencia publicada por la BACN: Ley N° 600/1995 (deroga el art. 580 y modifica el art. 582), Ley N° 1493/2000 (modifica los arts. 530, 716 y 717), Ley N° 2554/2005 (exonera del cumplimiento del Título III, Libro IV del Código Civil, sin modificar el CPC) y Ley N° 5330 (modifica el art. 701)"
 actualizado: "2026-11-27"
 ---

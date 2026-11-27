@@ -4,6 +4,7 @@ tipo: "Guía metodológica de consulta"
 fuero: "CIVIL Y COMERCIAL"
 numero_norma: "Base de Jurisprudencia del Poder Judicial"
 fuente: "Corte Suprema de Justicia del Paraguay — Base de Jurisprudencia: https://www.csj.gov.py/jurisprudencia"
+url_fuente: \"https://www.csj.gov.py/jurisprudencia\"
 vigencia: "Guía de uso. Los criterios de búsqueda y el volumen de registros varían con la carga diaria de resoluciones."
 actualizado: "2026-11-27"
 ---

@@ -1,7 +1,7 @@
 ---
 titulo: "Ley Nº 3966/2010 — Orgánica Municipal"
 tipo: "LEY"
-fuero: "CONTENCIOSIOSO ADMINISTRATIVO"
+fuero: "CONTENCIOSO ADMINISTRATIVO"
 numero_norma: "Ley Nº 3966/2010"
 fuente: "BACN"
 url_fuente: "https://www.bacn.gov.py/leyes-paraguayas/969/ley-n-3966-org-nica-municipal"

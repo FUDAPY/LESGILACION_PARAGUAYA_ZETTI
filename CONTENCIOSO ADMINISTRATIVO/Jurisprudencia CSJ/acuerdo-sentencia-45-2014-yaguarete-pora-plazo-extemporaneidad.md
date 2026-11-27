@@ -1,7 +1,7 @@
 ---
 titulo: "Acuerdo y Sentencia Nº 45/2014 — Yaguarete Pora S.A."
 tipo: "JURISPRUDENCIA"
-fuero: "CONTENCIOSIOSO ADMINISTRATIVO"
+fuero: "CONTENCIOSO ADMINISTRATIVO"
 numero_norma: "Acuerdo y Sentencia Nº 45/2014"
 fuente: "CSJ / Poder Judicial del Paraguay"
 url_fuente: "https://www.csj.gov.py/jurisprudencia/home/detalle?codigo=39430"

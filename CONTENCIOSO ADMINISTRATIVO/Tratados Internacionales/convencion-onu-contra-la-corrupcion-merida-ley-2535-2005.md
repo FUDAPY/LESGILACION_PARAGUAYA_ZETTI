@@ -1,7 +1,7 @@
 ---
 titulo: "Convención de las Naciones Unidas contra la Corrupción"
 tipo: "TRATADO INTERNACIONAL"
-fuero: "CONTENCIOSIOSO ADMINISTRATIVO"
+fuero: "CONTENCIOSO ADMINISTRATIVO"
 numero_norma: "Ley Nº 2535/2005"
 fuente: "BACN"
 url_fuente: "https://www.bacn.gov.py/leyes-paraguayas/4027/ley-n-2535-aprueba-la-convenci-n-de-las-naciones-unidas-contra-la-corrupci-n"

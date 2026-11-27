@@ -4,6 +4,7 @@ tipo: "Acordada de la Corte Suprema de Justicia"
 fuero: "CIVIL Y COMERCIAL"
 numero_norma: "Acordada N° 1233/2018"
 fuente: "Corte Suprema de Justicia del Paraguay — archivo oficial: https://www.pj.gov.py/images/contenido/acordadas/acordada1233.pdf"
+url_fuente: \"https://www.pj.gov.py/images/contenido/acordadas/acordada1233.pdf\"
 vigencia: "Vigente. Conforme al art. 2 de la propia Acordada, la implementación rige a los 30 días posteriores a su promulgación. Debe verificarse en cada jurisdicción si el juzgado se encuentra alcanzado por el trámite electrónico."
 actualizado: "2026-11-27"
 ---

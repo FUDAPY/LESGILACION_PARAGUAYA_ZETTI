@@ -1,7 +1,7 @@
 ---
 titulo: "Ley Nº 7021/2022 — De Suministro y Contrataciones Públicas"
 tipo: "LEY"
-fuero: "CONTENCIOSIOSO ADMINISTRATIVO"
+fuero: "CONTENCIOSO ADMINISTRATIVO"
 numero_norma: "Ley Nº 7021/2022"
 fuente: "BACN"
 url_fuente: "https://www.bacn.gov.py/leyes-paraguayas/11220/ley-n-7021-2022-de-suministro-y-contrataciones-p-blicas"

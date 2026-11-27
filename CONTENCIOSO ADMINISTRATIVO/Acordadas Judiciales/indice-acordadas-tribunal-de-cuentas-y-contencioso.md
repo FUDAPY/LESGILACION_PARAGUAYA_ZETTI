@@ -1,7 +1,7 @@
 ---
 titulo: "Índice verificado de Acordadas sobre Tribunal de Cuentas y trámite judicial electrónico"
 tipo: "ACORDADA"
-fuero: "CONTENCIOSIOSO ADMINISTRATIVO"
+fuero: "CONTENCIOSO ADMINISTRATIVO"
 numero_norma: "Acordadas N.º 605/2010, 610/2010, 728/2011, 1107/2016, 1128/2016, 1233/2018, 1265/2018 y 1268/2018"
 fuente: "Poder Judicial del Paraguay / CSJ"
 url_fuente: "https://www.pj.gov.py/acordadas-digitales/"

@@ -4,6 +4,7 @@ tipo: "Cuadro sinóptico de consulta"
 fuero: "CIVIL Y COMERCIAL"
 numero_norma: "Varias: Ley N° 1337/1988 (CPC), Ley N° 879/1981 (COJ) y Ley N° 1183/1985 (Código Civil)"
 fuente: "BACN — Biblioteca y Archivo del Congreso de la Nación: CPC https://www.bacn.gov.py/leyes-paraguayas/3038/ley-n-1337-codigo-procesal-civil-br ; COJ https://www.bacn.gov.py/leyes-paraguayas/2321/ley-n-879-codigo-de-organizacion-judicial-br"
+url_fuente: \"https://www.bacn.gov.py/leyes-paraguayas/3038/ley-n-1337-codigo-procesal-civil-br\"
 vigencia: "Vigente. Plazos del CPC con las reformas puntuales registradas por la BACN (Leyes N° 600/1995, 1493/2000 y 5330); plazos del Libro II del COJ sujetos a la ampliación de funciones de los Juzgados de Paz dispuesta por la Ley N° 6059/2018 y a la Ley N° 6351/2019"
 actualizado: "2026-11-27"
 ---

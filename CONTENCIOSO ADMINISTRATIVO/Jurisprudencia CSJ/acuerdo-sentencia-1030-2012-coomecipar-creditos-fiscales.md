@@ -1,7 +1,7 @@
 ---
 titulo: "Acuerdo y Sentencia Nº 1.030/2012 — Coomecipar Ltda."
 tipo: "JURISPRUDENCIA"
-fuero: "CONTENCIOSIOSO ADMINISTRATIVO"
+fuero: "CONTENCIOSO ADMINISTRATIVO"
 numero_norma: "Acuerdo y Sentencia Nº 1.030/2012"
 fuente: "CSJ / Poder Judicial del Paraguay"
 url_fuente: "https://www.csj.gov.py/jurisprudencia/home/detalle?codigo=28350"

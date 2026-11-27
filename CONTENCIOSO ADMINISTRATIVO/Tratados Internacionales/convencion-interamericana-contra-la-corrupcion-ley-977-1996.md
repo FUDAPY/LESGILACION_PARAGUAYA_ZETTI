@@ -1,7 +1,7 @@
 ---
 titulo: "Convención Interamericana contra la Corrupción"
 tipo: "TRATADO INTERNACIONAL"
-fuero: "CONTENCIOSIOSO ADMINISTRATIVO"
+fuero: "CONTENCIOSO ADMINISTRATIVO"
 numero_norma: "Ley Nº 977/1996"
 fuente: "BACN"
 url_fuente: "https://www.bacn.gov.py/leyes-paraguayas/10947/ley-n-977-aprueba-la-convencion-interamericana-contra-la-corrupcion"

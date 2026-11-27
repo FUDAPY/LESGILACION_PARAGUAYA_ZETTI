@@ -1,7 +1,7 @@
 ---
 titulo: "Índice de Jurisprudencia verificable del fuero Contencioso Administrativo"
 tipo: "JURISPRUDENCIA"
-fuero: "CONTENCIOSIOSO ADMINISTRATIVO"
+fuero: "CONTENCIOSO ADMINISTRATIVO"
 numero_norma: "Sin AyS verificables en la consulta oficial realizada"
 fuente: "CSJ / Poder Judicial del Paraguay"
 url_fuente: "https://www.csj.gov.py/jurisprudencia/Home/Criterios"

@@ -4,6 +4,7 @@ tipo: "Guía de fuentes"
 fuero: "CIVIL Y COMERCIAL"
 numero_norma: "Varias (Corte Suprema de Justicia)"
 fuente: "Poder Judicial del Paraguay: Base de Jurisprudencia https://www.csj.gov.py/jurisprudencia ; Instituto de Investigaciones Jurídicas https://www.pj.gov.py/contenido/931-instituto-de-investigaciones-juridicas/"
+url_fuente: \"https://www.csj.gov.py/jurisprudencia\"
 vigencia: "Guía descriptiva. Los enlaces y servicios pueden variar; la verificación corresponde a la fecha de corte."
 actualizado: "2026-11-27"
 ---

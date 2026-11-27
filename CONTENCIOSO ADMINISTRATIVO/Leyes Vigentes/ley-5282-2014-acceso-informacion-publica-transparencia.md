@@ -1,7 +1,7 @@
 ---
 titulo: "Ley Nº 5282/2014 — Libre Acceso Ciudadano a la Información Pública y Transparencia Gubernamental"
 tipo: "LEY"
-fuero: "CONTENCIOSIOSO ADMINISTRATIVO"
+fuero: "CONTENCIOSO ADMINISTRATIVO"
 numero_norma: "Ley Nº 5282/2014"
 fuente: "BACN"
 url_fuente: "https://www.bacn.gov.py/leyes-paraguayas/3013/ley-n-5282-2014-libre-acceso-ciudadano-a-la-informaci-n-p-blica-y-transparencia-gubernamental"

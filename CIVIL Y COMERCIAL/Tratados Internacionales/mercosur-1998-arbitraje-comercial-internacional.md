@@ -4,6 +4,7 @@ tipo: "Tratado internacional aprobado por ley"
 fuero: "CIVIL Y COMERCIAL"
 numero_norma: "Ley N° 3303/2007"
 fuente: "BACN — Biblioteca y Archivo del Congreso de la Nación: https://www.bacn.gov.py/leyes-paraguayas/3355/ley-n-3303-aprueba-el-acuerdo-sobre-arbitraje-comercial-internacional-del-mercosur"
+url_fuente: \"https://www.bacn.gov.py/leyes-paraguayas/3355/ley-n-3303-aprueba-el-acuerdo-sobre-arbitraje-comercial-internacional-del-mercosur\"
 vigencia: "Vigente en el ordenamiento paraguayo. Ley N° 3303/2007, sancionada el 16 de agosto de 2007 y promulgada el 11 de septiembre de 2007 (fechas publicadas por la BACN)."
 actualizado: "2026-11-27"
 ---

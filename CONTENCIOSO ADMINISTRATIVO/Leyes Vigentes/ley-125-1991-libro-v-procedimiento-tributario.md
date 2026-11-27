@@ -1,7 +1,7 @@
 ---
 titulo: "Ley Nº 125/1991 — Nuevo Régimen Tributario"
 tipo: "LEY"
-fuero: "CONTENCIOSIOSO ADMINISTRATIVO"
+fuero: "CONTENCIOSO ADMINISTRATIVO"
 numero_norma: "Ley Nº 125/1991"
 fuente: "BACN"
 url_fuente: "https://www.bacn.gov.py/leyes-paraguayas/2345/ley-n-125-establece-el-nuevo-regimen-tributario"

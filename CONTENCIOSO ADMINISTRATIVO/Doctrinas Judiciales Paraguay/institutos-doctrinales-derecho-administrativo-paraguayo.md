@@ -1,7 +1,7 @@
 ---
 titulo: "Institutos doctrinales del Derecho Administrativo Paraguayo"
 tipo: "DOCTRINA"
-fuero: "CONTENCIOSIOSO ADMINISTRATIVO"
+fuero: "CONTENCIOSO ADMINISTRATIVO"
 numero_norma: "Síntesis basada en Ley Nº 6715/2021 y doctrina constitucional/judicial"
 fuente: "BACN / CSJ"
 url_fuente: "https://www.bacn.gov.py/leyes-paraguayas/10974/ley-n-6715-procedimientos-administrativos"

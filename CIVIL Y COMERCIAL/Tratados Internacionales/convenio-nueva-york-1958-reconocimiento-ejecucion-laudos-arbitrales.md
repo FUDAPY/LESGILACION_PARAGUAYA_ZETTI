@@ -4,6 +4,7 @@ tipo: "Tratado internacional aprobado por ley"
 fuero: "CIVIL Y COMERCIAL"
 numero_norma: "Ley N° 948/1996"
 fuente: "BACN — Biblioteca y Archivo del Congreso de la Nación: https://www.bacn.gov.py/leyes-paraguayas/10912/ley-n-948-aprueba-el-convenio-sobre-reconocimiento-y-ejecucion-de-las-sentencias-arbitrales-extranjeras"
+url_fuente: \"https://www.bacn.gov.py/leyes-paraguayas/10912/ley-n-948-aprueba-el-convenio-sobre-reconocimiento-y-ejecucion-de-las-sentencias-arbitrales-extranjeras\"
 vigencia: "Vigente en el ordenamiento paraguayo. Ley N° 948/1996, promulgada el 9 de septiembre de 1996 (fecha de promulgación publicada por la BACN)."
 actualizado: "2026-11-27"
 ---

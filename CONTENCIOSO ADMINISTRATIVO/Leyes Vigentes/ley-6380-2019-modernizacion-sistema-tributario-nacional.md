@@ -1,7 +1,7 @@
 ---
 titulo: "Ley Nº 6380/2019 — Modernización y Simplificación del Sistema Tributario Nacional"
 tipo: "LEY"
-fuero: "CONTENCIOSIOSO ADMINISTRATIVO"
+fuero: "CONTENCIOSO ADMINISTRATIVO"
 numero_norma: "Ley Nº 6380/2019"
 fuente: "BACN"
 url_fuente: "https://www.bacn.gov.py/leyes-paraguayas/9332/ley-n-6380-de-modernizaci-n-y-simplificaci-n-del-sistema-tributario-nacional"

@@ -1,7 +1,7 @@
 ---
 titulo: "Acuerdo y Sentencia Nº 702/2012 — Prourbe S.A."
 tipo: "JURISPRUDENCIA"
-fuero: "CONTENCIOSIOSO ADMINISTRATIVO"
+fuero: "CONTENCIOSO ADMINISTRATIVO"
 numero_norma: "Acuerdo y Sentencia Nº 702/2012"
 fuente: "CSJ / Poder Judicial del Paraguay"
 url_fuente: "https://www.csj.gov.py/jurisprudencia/home/detalle?codigo=28034"

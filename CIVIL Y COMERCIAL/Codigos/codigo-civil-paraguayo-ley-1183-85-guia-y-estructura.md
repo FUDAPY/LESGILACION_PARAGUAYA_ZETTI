@@ -4,6 +4,7 @@ tipo: "Código de fondo"
 fuero: "CIVIL Y COMERCIAL"
 numero_norma: "Ley N° 1183/1985"
 fuente: "BACN — Biblioteca y Archivo del Congreso de la Nación: Libro I https://www.bacn.gov.py/leyes-paraguayas/5293/ley-n-1183-codigo-civil | Libro II https://www.bacn.gov.py/leyes-paraguayas/5299/ley-n-1183-codigo-civil-ii-parte-libro-segundo-br | Libro III https://www.bacn.gov.py/leyes-paraguayas/522/ley-n-1183-codigo-civil-iii-parte-libro-tercero-br | Libro IV https://www.bacn.gov.py/leyes-paraguayas/524/ley-n-1183-codigo-civil-iv-parte-libro-cuarto-br | Libro V https://www.bacn.gov.py/leyes-paraguayas/528/ley-n-1183-codigo-civil-v-parte-libro-quinto-br"
+url_fuente: \"https://www.bacn.gov.py/leyes-paraguayas/5293/ley-n-1183-codigo-civil\"
 vigencia: "Vigente (texto de la BACN, con modificaciones puntuales en materia de cheques: Leyes N° 805/1996, 2835/2005 y 3711/2006)"
 actualizado: "2026-11-27"
 ---

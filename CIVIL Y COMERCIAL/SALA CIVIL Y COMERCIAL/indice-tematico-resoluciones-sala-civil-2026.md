@@ -4,6 +4,7 @@ tipo: "Índice de jurisprudencia"
 fuero: "CIVIL Y COMERCIAL"
 numero_norma: "Acuerdos y Sentencias de la Sala Civil (2026)"
 fuente: "Base de Jurisprudencia del Poder Judicial: https://www.csj.gov.py/jurisprudencia — Sala 'SALA CIVIL', Materia 'Civil y Comercial'"
+url_fuente: \"https://www.csj.gov.py/jurisprudencia\"
 vigencia: "Índice de consulta. Cada enlace conduce a la ficha oficial de la resolución, que contiene los sumarios y el acceso al documento."
 actualizado: "2026-11-27"
 ---

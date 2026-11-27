@@ -1,7 +1,7 @@
 ---
 titulo: "Cuadro de plazos del procedimiento administrativo y contencioso-administrativo"
 tipo: "OTRO"
-fuero: "CONTENCIOSIOSO ADMINISTRATIVO"
+fuero: "CONTENCIOSO ADMINISTRATIVO"
 numero_norma: "Ley Nº 6715/2021 y Ley Nº 1462/1935 modificada"
 fuente: "BACN"
 url_fuente: "https://www.bacn.gov.py/leyes-paraguayas/10974/ley-n-6715-procedimientos-administrativos"

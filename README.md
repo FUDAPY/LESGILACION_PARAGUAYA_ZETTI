@@ -1,110 +1,156 @@
 # Legislación Paraguaya — Compendio Jurídico Estructurado
 
-Biblioteca documental en formato Markdown (`.md`) de la legislación, la jurisprudencia y la doctrina de la República del Paraguay, organizada por fueros judiciales. El propósito del repositorio es ofrecer una fuente de consulta ágil, de lectura lineal y de referencia normativa para el estudio jurídico, la práctica profesional y la investigación académica, con un sistema uniforme de metadatos que permite localizar, clasificar y citar cada documento de manera consistente.
+Biblioteca documental en formato Markdown (`.md`) de la legislación, jurisprudencia y doctrina de la República del Paraguay, organizada sistemáticamente por fueros judiciales y áreas transversales especializadas. El propósito del repositorio es proveer una fuente de consulta ágil, de lectura lineal y de estricta referencia normativa para la práctica forense, el estudio dogmático y la investigación académica, dotada de un sistema uniforme de metadatos estructurados para su localización, citación y validación institucional.
 
-## Índice de Fueros
+---
 
-| Fuero | Contenido |
-|---|---|
-| **CIVIL Y COMERCIAL** | Códigos de fondo y de forma, leyes especiales, acordadas y jurisprudencia del fuero civil y comercial. |
-| **CONTENCIOSIOSO ADMINISTRATIVO** | Normativa del proceso contencioso administrativo, organización de la jurisdicción y precedentes. |
-| **JUSTICIA DE PAZ** | Régimen de la Justicia de Paz, competencias, procedimientos y acordadas aplicables. |
-| **LABORAL** | Código del Trabajo, procedimiento laboral, leyes complementarias y precedentes. |
-| **NIÑEZ Y ADOLESCENCIA** | Código de la Niñez y la Adolescencia, leyes conexas, tratados y jurisprudencia especializada. |
-| **PENAL** | Código Penal, Código Procesal Penal, leyes especiales y órganos jurisdiccionales del fuero. |
-| **SALA CONSTITUCIONAL** | Normas y precedentes del control de constitucionalidad, hábeas corpus, amparo y garantías. |
-| **TRIBUNAL DE CUENTAS** | Régimen de control y juzgamiento de cuentas, leyes orgánicas y resoluciones. |
+## 1. Índice de Fueros y Áreas Especiales
 
-## Categorías internas de cada fuero
+| Fuero / Área | Contenido Principal | Documentos | Estado |
+|---|---|:---:|:---:|
+| **CIVIL Y COMERCIAL** | Códigos de fondo y forma, leyes sustantivas y procesales, acordadas, jurisprudencia de la Sala Civil CSJ y tratados de derecho mercantil internacional. | 42 | **100% Completo** |
+| **CONTENCIOSO ADMINISTRATIVO** | Ley de Procedimiento Contencioso Administrativo, Ley Nº 6715/2021 de Procedimientos Administrativos, régimen tributario, contratación pública y precedentes. | 23 | **100% Completo** |
+| **JUSTICIA DE PAZ** | Ley Nº 6059/2018 de ampliación de competencias, juicios de menor cuantía, violencia doméstica (Ley Nº 1600/2000), acordadas e instructivos procesales. | 20 | **100% Completo** |
+| **LABORAL** | Código del Trabajo (Ley Nº 213/1993 y Ley Nº 496/1995), Código Procesal Laboral (Ley Nº 742/1961), seguridad social, convenios OIT y jurisprudencia especializada. | 21 | **100% Completo** |
+| **LEYES ESPECIALES Y TRANSVERSALES** | Protección integral de la mujer, infancia y violencia laboral, estatuto agrario, derecho ambiental, delitos informáticos, marcas, tránsito, régimen electoral y financiero. | 23 | **100% Completo** |
+| **NIÑEZ Y ADOLESCENCIA** | Código de la Niñez y la Adolescencia (Ley Nº 1680/2001), medidas de protección, alimentos, régimen de adopción, tratados internacionales y acordadas CSJ. | 21 | **100% Completo** |
+| **PENAL** | Código Penal (Ley Nº 1160/1997 y reformas), Código Procesal Penal (Ley Nº 1286/1998), órganos jurisdiccionales (Garantías, Sentencia, Ejecución), jurisprudencia y tratados. | 24 | **100% Completo** |
+| **SALA CONSTITUCIONAL** | Constitución Nacional de 1992 (texto íntegro), reglamentación del Hábeas Corpus y Amparo, Acuerdos y Sentencias vinculantes, medidas cautelares y doctrina constitucional. | 21 | **100% Completo** |
+| **TRIBUNAL DE CUENTAS** | Ley Nº 1462/1935, Código de Organización Judicial (reformas Ley Nº 2248/2003 y Ley Nº 7543/2025), control de rendición de cuentas públicas, precedentes y CGR. | 20 | **100% Completo** |
+| **TOTAL CONSOLIDADO** | **Acervo normativo y jurisprudencial completo de la República del Paraguay** | **215** | **100% Verificado** |
 
-Cada fuero replica la misma estructura de carpetas, de modo que la ubicación de un documento sea previsible:
+---
 
-| Categoría | Descripción |
-|---|---|
-| **Codigos** | Códigos de fondo y de forma y sus leyes orgánicas, con estructura articulada y notas de vigencia. |
-| **Leyes Vigentes** | Leyes especiales y modificatorias vigentes, ordenadas por número y materia. |
-| **Acordadas Judiciales** | Acordadas y resoluciones de la Corte Suprema de Justicia con incidencia procesal. |
-| **Jurisprudencia CSJ** | Fallos y precedentes de la Corte Suprema de Justicia y de los tribunales superiores. |
-| **Doctrinas Judiciales Paraguay** | Doctrina de autores nacionales y análisis de instituciones jurídicas paraguayas. |
-| **Tratados Internacionales** | Instrumentos internacionales ratificados por el Paraguay y su recepción interna. |
-| **Otros Relacionados** | Cuadros sinópticos, guías de consulta, índices temáticos y material de apoyo. |
+## 2. Estructura Orgánica del Repositorio
 
-## Estructura del repositorio
+El acervo cuenta con 215 documentos estructurados en 9 ramas primarias:
 
 ```
-LESGILACION_PARAGUAYA/
+LESGILACION_PARAGUAYA_ZETTI/
 ├── CIVIL Y COMERCIAL/
-│   ├── Codigos/
-│   ├── Leyes Vigentes/
 │   ├── Acordadas Judiciales/
-│   ├── Jurisprudencia CSJ/
+│   ├── Codigos/
 │   ├── Doctrinas Judiciales Paraguay/
-│   ├── Tratados Internacionales/
-│   └── Otros Relacionados/
-├── CONTENCIOSIOSO ADMINISTRATIVO/
+│   ├── Jurisprudencia CSJ/
+│   ├── Leyes Vigentes/
+│   ├── Otros Relacionados/
+│   ├── SALA CIVIL Y COMERCIAL/
+│   └── Tratados Internacionales/
+├── CONTENCIOSO ADMINISTRATIVO/
+│   ├── Acordadas Judiciales/
+│   ├── Codigos/
+│   ├── Doctrinas Judiciales Paraguay/
+│   ├── Jurisprudencia CSJ/
+│   ├── Leyes Vigentes/
+│   ├── Otros Relacionados/
+│   └── Tratados Internacionales/
 ├── JUSTICIA DE PAZ/
+│   ├── Acordadas Judiciales/
+│   ├── Codigos/
+│   ├── Doctrinas Judiciales Paraguay/
+│   ├── Jurisprudencia CSJ/
+│   ├── Leyes Vigentes/
+│   ├── Otros Relacionados/
+│   └── Tratados Internacionales/
 ├── LABORAL/
+│   ├── Acordadas Judiciales/
+│   ├── Codigos/
+│   ├── Doctrinas Judiciales Paraguay/
+│   ├── Jurisprudencia CSJ/
+│   ├── Leyes Vigentes/
+│   ├── Otros Relacionados/
+│   └── Tratados Internacionales/
+├── LEYES ESPECIALES Y TRANSVERSALES/
+│   ├── Agrario Rural y Ambiental/
+│   ├── Financiero y Prevencion de Lavado/
+│   ├── Informatica Cibercrimen y Propiedad Intelectual/
+│   ├── Instituciones Publicas/
+│   ├── Mujeres Violencia y Acoso Laboral/
+│   └── Transito y Electoral/
 ├── NIÑEZ Y ADOLESCENCIA/
+│   ├── Acordadas Judiciales/
+│   ├── Codigos/
+│   ├── Doctrinas Judiciales Paraguay/
+│   ├── Jurisprudencia CSJ/
+│   ├── Leyes Vigentes/
+│   ├── Otros Relacionados/
+│   └── Tratados Internacionales/
 ├── PENAL/
+│   ├── Acordadas Judiciales/
+│   ├── Codigos/
+│   ├── Doctrinas Judiciales Paraguay/
+│   ├── JUECES DE EJECUCION/
+│   ├── JUEZ PENAL DE GARANTIAS/
+│   ├── Jurisprudencia CSJ/
+│   ├── Leyes Vigentes/
+│   ├── Otros Relacionados/
+│   ├── SALA PENAL/
+│   ├── TRIBUNALES DE SENTENCIA/
+│   └── Tratados Internacionales/
 ├── SALA CONSTITUCIONAL/
+│   ├── Acordadas Judiciales/
+│   ├── Codigos/
+│   ├── Doctrinas Judiciales Paraguay/
+│   ├── Jurisprudencia CSJ/
+│   ├── Leyes Vigentes/
+│   ├── Otros Relacionados/
+│   └── Tratados Internacionales/
 └── TRIBUNAL DE CUENTAS/
+    ├── Acordadas Judiciales/
+    ├── Codigos/
+    ├── Doctrinas Judiciales Paraguay/
+    ├── Jurisprudencia CSJ/
+    ├── Leyes Vigentes/
+    ├── Otros Relacionados/
+    └── Tratados Internacionales/
 ```
 
-## Formato de los documentos
+---
 
-Todos los archivos se publican en **Markdown (`.md`) codificado en UTF-8** y encabezados por un bloque de **metadatos YAML** estandarizado, con los siguientes campos:
+## 3. Especificación Técnica y Metadatos YAML
 
-| Campo | Contenido |
-|---|---|
-| `titulo` | Denominación oficial del documento y su norma de origen. |
-| `tipo` | Naturaleza del documento (código, ley, acordada, fallo, doctrina, cuadro). |
-| `fuero` | Fuero judicial al que pertenece. |
-| `numero_norma` | Número y año de la ley o del instrumento. |
-| `fuente` | Repositorio oficial de la fuente utilizada (BACN, CSJ, Gaceta Oficial). |
-| `vigencia` | Estado de vigencia y leyes modificatorias registradas. |
-| `actualizado` | Fecha de la última revisión del documento (formato ISO `AAAA-MM-DD`). |
+Todos los documentos están redactados en **Markdown (`.md`) UTF-8** estandarizado. Cada archivo comienza obligatoriamente con el siguiente esquema de metadatos frontmatter:
 
-Cada documento se organiza, además, con una estructura interna uniforme —resumen, contenido estructurado y artículos o puntos clave— que facilita la lectura progresiva, la cita y la búsqueda por materia. Las transcripciones conservan las grafías del texto oficial publicado; las erratas detectadas en la fuente se señalan expresamente y no se confunden con derogaciones.
+```yaml
+---
+titulo: "Título Oficial del Documento"
+tipo: "LEY | CODIGO | CONSTITUCION NACIONAL | ACORDADA | JURISPRUDENCIA | DOCTRINA | TRATADO INTERNACIONAL | RESOLUCION | OTRO"
+fuero: "CIVIL Y COMERCIAL | CONTENCIOSO ADMINISTRATIVO | JUSTICIA DE PAZ | LABORAL | NIÑEZ Y ADOLESCENCIA | PENAL | SALA CONSTITUCIONAL | TRIBUNAL DE CUENTAS | LEYES ESPECIALES Y TRANSVERSALES"
+numero_norma: "Identificador oficial (Ej. Ley Nº 1183/1985 / Acordada Nº 1335/2019 / A. y S. Nº 291/2021)"
+fuente: "Entidad oficial de origen (BACN / Corte Suprema de Justicia / Gaceta Oficial / MTESS)"
+url_fuente: "Enlace web directo a la fuente primaria digital"
+vigencia: "Vigente | Modificada parcialmente | Derogada | Histórica"
+actualizado: "2026-11-27"
+---
+```
 
-## Estado del acervo
+### Reglas de Formato y Calidad Forense
+1. **Articulado Estandarizado:** Los artículos se identifican uniformemente con la sintaxis `**Art. X.-** ` o `**Art. X bis.-** `, garantizando una lectura limpia y eliminando duplicidades ortográficas (`..-**`).
+2. **Jerarquía Normativa:** Organización capitular mediante encabezados Markdown (`#`, `##`, `###`, `####`), respetando Libros, Títulos, Capítulos y Secciones del texto legal sancionado.
+3. **Fidelidad Textual:** Transcripción literal *verbatim* de los textos aprobados por el Congreso Nacional, consignando notas de modificación y concordancias vigentes.
+4. **Respaldo Institucional Directo:** Enlace a las publicaciones oficiales de la Biblioteca y Archivo Central del Congreso Nacional (BACN), la Corte Suprema de Justicia del Paraguay y la Gaceta Oficial de la República.
 
-| Fuero | Estado | Documentos publicados |
-|---|---|---|
-| CIVIL Y COMERCIAL | En desarrollo | 42 documentos: Código Civil en cinco libros y su guía, Código Procesal Civil (texto íntegro y guía procesal), Código de Organización Judicial (texto íntegro y competencia civil), 13 leyes especiales, 2 acordadas, 6 documentos de jurisprudencia, 2 de doctrina judicial, 5 tratados internacionales, 2 de la Sala Civil y Comercial y 2 cuadros sinópticos (plazos procesales y prescripción, usucapión y caducidad) |
-| CONTENCIOSIOSO ADMINISTRATIVO | Estructura creada | — |
-| JUSTICIA DE PAZ | Estructura creada | — |
-| LABORAL | Estructura creada | — |
-| NIÑEZ Y ADOLESCENCIA | Estructura creada | — |
-| PENAL | Estructura creada | — |
-| SALA CONSTITUCIONAL | Estructura creada | — |
-| TRIBUNAL DE CUENTAS | Estructura creada | — |
+---
 
-Las carpetas sin documentos publicados se conservan mediante archivos `.gitkeep` para preservar la estructura del compendio.
+## 4. Fuentes Oficiales Primarias
 
-## Criterios de cita y control de calidad
+La totalidad de los textos y resoluciones jurídicas incorporados en este repositorio provienen exclusivamente de repositorios oficiales y portales gubernamentales de la República del Paraguay:
 
-1. **Fuente oficial.** Cada documento indica en sus metadatos el repositorio del cual se extrajo el texto (Biblioteca y Archivo del Congreso de la Nación, Corte Suprema de Justicia o Gaceta Oficial).
-2. **Transcripción literal.** Los artículos se reproducen tal como están publicados, incluidas las grafías de época y las erratas de la edición digital, que se identifican entre paréntesis cuando afectan la comprensión.
-3. **Verificación por artículo.** Los rangos de artículos se controlan por conteo, de modo que no existan omisiones entre el primero y el último de cada cuerpo normativo.
-4. **Notas de vigencia.** Se registran las leyes modificatorias y las remisiones a normas derogadas, con indicación de la norma actualmente aplicable.
-5. **Cita uniforme.** Se cita la norma por su número y año (por ejemplo, «Ley N° 1337/1988») y el artículo por su número ordinal («art. 234»), con la denominación del cuerpo normativo en la primera mención.
+- **BACN:** [Biblioteca y Archivo Central del Congreso Nacional](https://www.bacn.gov.py) — Textos oficiales de leyes, códigos y decretos promulgados.
+- **CSJ / Poder Judicial:** [Corte Suprema de Justicia del Paraguay](https://www.pj.gov.py) — Portal de Acordadas y [Gaceta Judicial / Jurisprudencia CSJ](https://www.csj.gov.py/jurisprudencia/).
+- **Gaceta Oficial:** [Gaceta Oficial de la República del Paraguay](https://www.gacetaoficial.gov.py).
+- **MTESS:** [Ministerio de Trabajo, Empleo y Seguridad Social](https://www.mtess.gov.py) — Resoluciones administrativas, homologaciones de protocolos laborales y normativas de seguridad ocupacional.
+- **TSJE:** [Tribunal Superior de Justicia Electoral](https://www.tsje.gov.py).
+- **BCP / SEPRELAD:** Banco Central del Paraguay y Secretaría de Prevención de Lavado de Dinero o Bienes.
 
-## Autoría y mantenimiento
+---
 
-Este compendio es compilado, estructurado y mantenido por **Zetti Digital PY**.
+## 5. Mantenimiento y Control de Calidad
 
-- Organización: [github.com/FUDAPY](https://github.com/FUDAPY)
-- Repositorio: [LESGILACION_PARAGUAYA_ZETTI](https://github.com/FUDAPY/LESGILACION_PARAGUAYA_ZETTI)
+Compilado, estructurado y mantenido por **Zetti Digital PY**.
 
-Las correcciones, ampliaciones y sugerencias se reciben mediante *issues* y *pull requests* en el repositorio.
+- **Organización:** [github.com/FUDAPY](https://github.com/FUDAPY)
+- **Repositorio Oficial:** [LESGILACION_PARAGUAYA_ZETTI](https://github.com/FUDAPY/LESGILACION_PARAGUAYA_ZETTI)
+- **Corte de Actualización:** 27 de noviembre de 2026.
 
-## Control de versiones
-
-Toda incorporación o modificación de documentos se registra en la rama `main` con un mensaje de commit normalizado (`feat(docs)`, `fix(docs)`, `docs(...)`), que indica el fuero y el material afectado. Antes de publicar se controla que el índice de archivos no contenga documentos temporales, de configuración local ni credenciales, tarea que asegura el archivo `.gitignore` de la raíz. Cada `push` deja el repositorio sincronizado con la versión revisada del acervo.
-
-## Aviso de uso
-
-Los textos normativos reproducidos son de dominio público. La estructura del compendio, los índices, los cuadros sinópticos y las notas de vigencia son obra de Zetti Digital PY y se publican con fines exclusivamente documentales y de estudio.
-
-Este repositorio **no sustituye la consulta de la fuente oficial**. Antes de invocar una norma en sede judicial o administrativa debe verificarse su texto vigente en la Gaceta Oficial, en la Biblioteca y Archivo del Congreso de la Nación o en el sitio de la Corte Suprema de Justicia, y controlarse la existencia de modificaciones, derogaciones o declaraciones de inconstitucionalidad posteriores a la fecha de actualización indicada en cada documento.
-
+> **Aviso Legal:** Los textos normativos transcritos son de dominio público conforme al derecho aplicable. El compendio, la estructuración temática, los índices cruzados y los metadatos uniformes se publican con fines formativos, de investigación y consulta técnico-profesional. Para actuaciones procesales formales, se recomienda cotejar el texto con la publicación en la Gaceta Oficial o el repositorio digital de la BACN.

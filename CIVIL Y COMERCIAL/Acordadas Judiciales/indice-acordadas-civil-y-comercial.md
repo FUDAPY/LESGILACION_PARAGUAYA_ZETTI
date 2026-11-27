@@ -4,6 +4,7 @@ tipo: "Índice analítico de acordadas"
 fuero: "CIVIL Y COMERCIAL"
 numero_norma: "Acordadas de la Corte Suprema de Justicia (varias)"
 fuente: "Corte Suprema de Justicia del Paraguay — portal institucional, sección Acordadas: https://www.pj.gov.py/acordadas"
+url_fuente: \"https://www.pj.gov.py/acordadas\"
 vigencia: "Índice de consulta. Cada acordada conserva la vigencia que le corresponde según sus propias disposiciones y las acordadas posteriores que la modifiquen o amplíen; el índice no sustituye la consulta del texto publicado."
 actualizado: "2026-11-27"
 ---

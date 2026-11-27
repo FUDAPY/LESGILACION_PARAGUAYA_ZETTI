@@ -1,7 +1,7 @@
 ---
 titulo: "Convención Americana sobre Derechos Humanos — Pacto de San José"
 tipo: "TRATADO INTERNACIONAL"
-fuero: "CONTENCIOSIOSO ADMINISTRATIVO"
+fuero: "CONTENCIOSO ADMINISTRATIVO"
 numero_norma: "Ley Nº 1/1989"
 fuente: "BACN"
 url_fuente: "https://www.bacn.gov.py/leyes-paraguayas/2619/ley-n-1-aprueba-y-ratifica-la-convenci-n-americana-sobre-derechos-humanos-o-pacto-de-san-jos-de-costa-rica"

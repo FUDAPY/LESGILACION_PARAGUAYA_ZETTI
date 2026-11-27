@@ -1,7 +1,7 @@
 ---
 titulo: "Acuerdo y Sentencia Nº 982/2012 — Rubén Antonio Aguilera Vázquez"
 tipo: "JURISPRUDENCIA"
-fuero: "CONTENCIOSIOSO ADMINISTRATIVO"
+fuero: "CONTENCIOSO ADMINISTRATIVO"
 numero_norma: "Acuerdo y Sentencia Nº 982/2012"
 fuente: "CSJ / Poder Judicial del Paraguay"
 url_fuente: "https://www.csj.gov.py/jurisprudencia/home/detalle?codigo=28562"

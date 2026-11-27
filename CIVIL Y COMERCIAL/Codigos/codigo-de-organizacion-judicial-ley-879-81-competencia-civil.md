@@ -4,6 +4,7 @@ tipo: "Ley orgánica del Poder Judicial"
 fuero: "CIVIL Y COMERCIAL"
 numero_norma: "Ley N° 879/1981"
 fuente: "BACN — Biblioteca y Archivo del Congreso de la Nación: https://www.bacn.gov.py/leyes-paraguayas/2321/ley-n-879-codigo-de-organizacion-judicial-br"
+url_fuente: \"https://www.bacn.gov.py/leyes-paraguayas/2321/ley-n-879-codigo-de-organizacion-judicial-br\"
 vigencia: "Vigente. La BACN registra como modificatorias: Ley N° 860/1996; Ley N° 903/1996 (Libro I, Título V, Capítulo III); Ley N° 1084/1997 (enjuiciamiento y remoción de magistrados); Ley N° 1384/1998 y Ley N° 2335/2003 (art. 1° de la Ley N° 903/1996); Ley N° 1838/2001 y Ley N° 2903/2006 (art. 280); Ley N° 2124/2003 (incompatibilidades de la función notarial); Ley N° 2248/2003 (art. 30); Ley N° 2564/2005 (art. 2° de la Ley N° 860/1996); Ley N° 3226/2007 (art. 57 inc. a); Ley N° 3284/2007 y Ley N° 5397/2014 (art. 191); Ley N° 4588/2012 (art. 301); Ley N° 6059/2018 (amplía las disposiciones del COJ y las funciones de los Juzgados de Paz) y Ley N° 6351/2019 (arts. 4° y 6° de la Ley N° 6059/2018)"
 actualizado: "2026-11-27"
 ---

@@ -1,7 +1,7 @@
 ---
 titulo: "Ley Nº 1462/1935 — Procedimiento Contencioso-Administrativo"
 tipo: "CODIGO"
-fuero: "CONTENCIOSIOSO ADMINISTRATIVO"
+fuero: "CONTENCIOSO ADMINISTRATIVO"
 numero_norma: "Ley Nº 1462/1935 / Ley Nº 4046/2010 / Ley Nº 5456/2015"
 fuente: "BACN"
 url_fuente: "https://www.bacn.gov.py/leyes-paraguayas/157/ley-n-1462-establece-el-procedimiento-para-lo-contencioso-administrativo"

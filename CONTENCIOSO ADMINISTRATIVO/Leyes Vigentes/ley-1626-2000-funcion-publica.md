@@ -1,7 +1,7 @@
 ---
 titulo: "Ley Nº 1626/2000 — De la Función Pública"
 tipo: "LEY"
-fuero: "CONTENCIOSIOSO ADMINISTRATIVO"
+fuero: "CONTENCIOSO ADMINISTRATIVO"
 numero_norma: "Ley Nº 1626/2000"
 fuente: "BACN"
 url_fuente: "https://www.bacn.gov.py/leyes-paraguayas/1711/ley-n-1626-de-la-funcion-publica"

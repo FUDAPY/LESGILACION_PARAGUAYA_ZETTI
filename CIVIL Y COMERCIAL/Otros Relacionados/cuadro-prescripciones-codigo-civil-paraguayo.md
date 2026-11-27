@@ -4,6 +4,7 @@ tipo: "Cuadro sinóptico de consulta"
 fuero: "CIVIL Y COMERCIAL"
 numero_norma: "Ley N° 1183/1985 (Código Civil) y Ley N° 1337/1988 (Código Procesal Civil)"
 fuente: "BACN — Biblioteca y Archivo del Congreso de la Nación: Código Civil, Libro Segundo https://www.bacn.gov.py/leyes-paraguayas/5299/ley-n-1183-codigo-civil-ii-parte-libro-segundo-br ; Libro Cuarto https://www.bacn.gov.py/leyes-paraguayas/524/ley-n-1183-codigo-civil-iv-parte-libro-cuarto-br ; Código Procesal Civil https://www.bacn.gov.py/leyes-paraguayas/3038/ley-n-1337-codigo-procesal-civil-br"
+url_fuente: \"https://www.bacn.gov.py/leyes-paraguayas/5299/ley-n-1183-codigo-civil-ii-parte-libro-segundo-br\"
 vigencia: "Vigente. Código Civil con las modificaciones introducidas por la Ley N° 1/1992 y leyes posteriores; Código Procesal Civil con las reformas registradas por la BACN (Leyes N° 600/1995, 1493/2000 y 5330)."
 actualizado: "2026-11-27"
 ---

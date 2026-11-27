@@ -1,7 +1,7 @@
 ---
 titulo: "Ley Nº 6715/2021 — De Procedimientos Administrativos"
 tipo: "CODIGO"
-fuero: "CONTENCIOSIOSO ADMINISTRATIVO"
+fuero: "CONTENCIOSO ADMINISTRATIVO"
 numero_norma: "Ley Nº 6715/2021"
 fuente: "BACN"
 url_fuente: "https://www.bacn.gov.py/leyes-paraguayas/10974/ley-n-6715-procedimientos-administrativos"

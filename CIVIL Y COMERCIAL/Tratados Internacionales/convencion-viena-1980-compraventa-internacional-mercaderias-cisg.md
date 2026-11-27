@@ -4,6 +4,7 @@ tipo: "Tratado internacional aprobado por ley"
 fuero: "CIVIL Y COMERCIAL"
 numero_norma: "Ley N° 2611/2005"
 fuente: "BACN — Biblioteca y Archivo del Congreso de la Nación: https://www.bacn.gov.py/leyes-paraguayas/4175/ley-n-2611-aprueba-la-convencion-de-las-naciones-unidas-sobre-los-contratos-de-compraventa-internacional-de-mercaderias"
+url_fuente: \"https://www.bacn.gov.py/leyes-paraguayas/4175/ley-n-2611-aprueba-la-convencion-de-las-naciones-unidas-sobre-los-contratos-de-compraventa-internacional-de-mercaderias\"
 vigencia: "Vigente en el ordenamiento paraguayo. Ley N° 2611/2005, promulgada el 22 de junio de 2005 (fecha de promulgación publicada por la BACN)."
 actualizado: "2026-11-27"
 ---

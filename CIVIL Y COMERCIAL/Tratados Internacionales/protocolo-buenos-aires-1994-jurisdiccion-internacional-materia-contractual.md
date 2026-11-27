@@ -4,6 +4,7 @@ tipo: "Tratado internacional aprobado por ley"
 fuero: "CIVIL Y COMERCIAL"
 numero_norma: "Ley N° 597/1995"
 fuente: "BACN — Biblioteca y Archivo del Congreso de la Nación: https://www.bacn.gov.py/leyes-paraguayas/11609/ley-n-597-aprueba-el-protocolo-de-buenos-aires-sobre-jurisdiccion-internacional-en-materia-contractual"
+url_fuente: \"https://www.bacn.gov.py/leyes-paraguayas/11609/ley-n-597-aprueba-el-protocolo-de-buenos-aires-sobre-jurisdiccion-internacional-en-materia-contractual\"
 vigencia: "Vigente en el ordenamiento paraguayo. Ley N° 597/1995, sancionada el 25 de mayo de 1995 y promulgada el 15 de junio de 1995 (fechas publicadas por la BACN)."
 actualizado: "2026-11-27"
 ---

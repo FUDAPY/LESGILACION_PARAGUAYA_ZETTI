@@ -4,6 +4,7 @@ tipo: "Ficha de jurisprudencia"
 fuero: "CIVIL Y COMERCIAL"
 numero_norma: "Acuerdo y Sentencia N° 60/2026"
 fuente: "Base de Jurisprudencia del Poder Judicial: https://www.csj.gov.py/jurisprudencia/home/detalle?codigo=124282 — Documento: https://www.csj.gov.py/jurisprudencia/home/DocumentoJurisprudencia?codigo=124282"
+url_fuente: \"https://www.csj.gov.py/jurisprudencia/home/detalle?codigo=124282\"
 vigencia: "Resolución judicial de caso concreto. No constituye precedente vinculante."
 actualizado: "2026-11-27"
 ---
