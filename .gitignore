@@ -1,0 +1,29 @@
+# Archivos de sistema y editores
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.tmp
+*.bak
+
+# Archivos temporales o de configuración de herramientas (PROHIBIDO SUBIR)
+.clinerules
+.cline/
+.cursor/
+.cursorrules
+.continue/
+.aider*
+.claude/
+CLAUDE.md
+AGENTS.md
+PROMPTS.md
+prompt*.md
+*.prompt.md
+.ai/
+
+# Variables de entorno y credenciales
+.env
+.env.*
+*.key
+*.pem
