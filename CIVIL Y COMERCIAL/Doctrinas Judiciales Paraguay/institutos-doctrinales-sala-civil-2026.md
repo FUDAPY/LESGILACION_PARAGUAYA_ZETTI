@@ -52,7 +52,6 @@ Se ordenan cinco bloques: contrato, responsabilidad civil y seguro, prueba, recu
 
 **3.3. Recibos y reconocimiento del pago.** "El actor acreditó suficientemente haber cumplido con su obligación hasta el monto de Gs. 20.500.000, lo que surge de los 5 recibos que obran en autos; a esto se suma que el demandado no desconoció haber recibido los pagos alegados ni haber librado los recibos en cuestión." — [A. y S. N° 41/2026](https://www.csj.gov.py/jurisprudencia/home/detalle?codigo=120432).
 
-
 ### 4. Recursos y proceso
 
 **4.1. Nulidad reservada a vicios de forma o logicidad.** "El recurso de nulidad está reservado de forma taxativa para vicios de forma o logicidad (in procedendo o in cogitando) a tenor del art. 404 del Código Procesal Civil; por el contrario, los cuestionamientos vinculados a la valoración de la prueba y la apreciación del juzgamiento constituyen materia propia de la apelación." — [A. y S. N° 79/2026](https://www.csj.gov.py/jurisprudencia/home/detalle?codigo=125316).
